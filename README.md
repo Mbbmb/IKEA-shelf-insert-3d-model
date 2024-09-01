@@ -13,3 +13,4 @@ That having been said, this project was heavily inspired by the system built by 
 - ID card
 
 PLEASE NOTE: This project is not 100% complete as I have yet to make all of the cutouts for each item. However, I am still happy with what I managed to get done, as I have all of the items modeled and ready.
+lmk if you need any extra info
